@@ -8,7 +8,7 @@ All SQL agent scripts have been successfully updated to use Google's Gemini API 
 
 ### 1. **API Key Configuration**
 - **Created**: `gemini_config.py` - Contains your Gemini API key
-- **API Key**: `AIzaSyCHjXJph5FTEodXkw0DPzEStPyPz3dItyo`
+- **API Key**: `[YOUR_API_KEY_HERE]` (Replace with your actual Gemini API key)
 - **Environment**: Set via `GOOGLE_API_KEY` environment variable
 
 ### 2. **Updated Scripts**
