@@ -1,0 +1,41 @@
+# Test dependencies for the Interactive Prompt Responder project
+
+# Core testing framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+pytest-asyncio>=0.21.1
+
+# Flask testing
+pytest-flask>=1.2.0
+flask-testing>=0.8.1
+
+# React/JavaScript testing (if needed)
+# jest>=29.0.0
+# @testing-library/react>=13.4.0
+# @testing-library/jest-dom>=5.16.5
+
+# Database testing
+pytest-sqlalchemy>=1.5.0
+
+# Mock and fixture utilities
+factory-boy>=3.3.0
+faker>=19.0.0
+
+# Performance testing
+pytest-benchmark>=4.0.0
+
+# Coverage reporting
+coverage>=7.2.0
+
+# Code quality
+pytest-flake8>=1.1.0
+pytest-mypy>=0.10.0
+
+# Additional utilities
+freezegun>=1.2.0
+responses>=0.23.0
+requests-mock>=1.11.0
+
+# System monitoring for performance tests
+psutil>=5.9.0
